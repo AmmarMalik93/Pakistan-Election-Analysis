@@ -21,7 +21,7 @@ app.layout = html.Div(
                   [                
                   dcc.Markdown('Created by [Ammar Malik](https://twitter.com/ammar_malik93)'),
                   dcc.Markdown('Data taken from [rugpundit](https://github.com/rugpundit/PakistanElectionResults) by [Yasir Hussain Sheikh](https://twitter.com/rugpundit)'),
-		  dcc.Markdown('[Source Code:] (https://github.com/AmmarMalik93/Pakistan-Election-Analysis/blob/main/app.py)'),
+		  dcc.Markdown('[Source Code] (https://github.com/AmmarMalik93/Pakistan-Election-Analysis/blob/main/app.py)'),
                 ], 
                 style={'font-size':'10px', 'width':'20%', 'borderRadius': 5, 'background-color': '#AEB6BF',
                 'border':'thin lightgrey solid', 'font-family':'Roboto, sans-serif'},
