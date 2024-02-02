@@ -1,8 +1,8 @@
 # Pakistan-Election-Analysis
 
-This is the source code for the **heroku app** that I created to visualize general election results in Pakistan.
+This is the source code for the **Python** app that I created to visualize general election results in Pakistan using **Render**.
 
-Link to app: https://election-app-pak.herokuapp.com/
+Link to app: https://election-app-pak.onrender.com/
 
 # Things to do
 Add the map visualizations
